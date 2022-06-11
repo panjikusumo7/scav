@@ -20,12 +20,13 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-akbarvpn="raw.githubusercontent.com/AkbarStoreVPN/scriptvps/main/menu"
+akbarvpn="raw.githubusercontent.com/panjikusumo7/scav/main/menu"
 # Link Hosting Kalian Untuk Xray
-akbarvpnnnnnn="raw.githubusercontent.com/AkbarStoreVPN/scriptvps/main/xray"
+akbarvpnnnnnn="raw.githubusercontent.com/panjikusumo7/scav/main/xray"
 # Link Hosting Kalian Untuk Backup
-akbarvpnnnnnnnn="raw.githubusercontent.com/AkbarStoreVPN/scriptvps/main/backup"
+akbarvpnnnnnnnn="raw.githubusercontent.com/panjikusumo7/scav/main/backup"
 
+fi
 rm -f setup.sh
 clear
 if [ -f "/etc/xray/domain" ]; then
