@@ -11,7 +11,6 @@ PURPLE='\033[0;35m'
 CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
-fi
 clear
 read -rp "Domain/Host : " -e domain
 echo "IP=$domain" >>/var/lib/akbarstorevpn/ipvps.conf
