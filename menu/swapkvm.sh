@@ -11,7 +11,6 @@ PURPLE='\033[0;35m'
 CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
-fi
 dd if=/dev/zero of=/swapfile1 bs=1024 count=524288
 dd if=/dev/zero of=/swapfile2 bs=1024 count=524288
 mkswap /swapfile1
