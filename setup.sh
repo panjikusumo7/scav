@@ -105,7 +105,7 @@ echo "   - Whatsapp                : 081545854516"  | tee -a log-install.txt
 echo "   - Facebook                : https://m.facebook.com/lis.tio.718" | tee -a log-install.txt
 echo "----------------------Script Created By Akbar Maulana Project----------------------" | tee -a log-install.txt
 echo ""
-echo " Reboot 5 Sec"
+echo " Clear 5 Sec"
 sleep 5
 rm -f setup.sh
-reboot
+clear
