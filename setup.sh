@@ -26,7 +26,6 @@ akbarvpnnnnnn="raw.githubusercontent.com/panjikusumo7/scav/main/xray"
 # Link Hosting Kalian Untuk Backup
 akbarvpnnnnnnnn="raw.githubusercontent.com/panjikusumo7/scav/main/backup"
 
-fi
 rm -f setup.sh
 clear
 if [ -f "/etc/xray/domain" ]; then
