@@ -26,7 +26,6 @@ akbarvpnnnnnn="raw.githubusercontent.com/AkbarStoreVPN/scriptvps/main/xray"
 # Link Hosting Kalian Untuk Backup
 akbarvpnnnnnnnn="raw.githubusercontent.com/AkbarStoreVPN/scriptvps/main/backup"
 
-fi
 rm -f setup.sh
 clear
 if [ -f "/etc/xray/domain" ]; then
