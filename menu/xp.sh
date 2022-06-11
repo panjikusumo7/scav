@@ -11,7 +11,6 @@ PURPLE='\033[0;35m'
 CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
-fi
 clear
 data=( `cat /var/lib/akbarstorevpn/data-user-l2tp | grep '^###' | cut -d ' ' -f 2`);
 now=`date +"%Y-%m-%d"`
